@@ -1,8 +1,8 @@
 ## Menü
 
--HTMLL,CSS,BOOSTRAP, JAVASCRİPT kullanılarak tasarlandı.
+-Designed using HTML, CSS, JavaScript
 
 
 ## GİF
 
-<img src= "screen (2).gif">
+<img src= "screen.gif">

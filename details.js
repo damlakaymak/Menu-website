@@ -1,4 +1,6 @@
 import { menu } from "./db.js";
+import { calculatePrice } from "./helpers.js";
+
 
 const outlet =document.getElementById("outlet")
 
@@ -28,7 +30,7 @@ outlet.innerHTML = `
   Ürünün Kategorisi: <span class="text-success">${product.category}</span>
 </h3>
 <h3 class="my-5">
-  Ürünün Fİyatı: <span class="text-success">${product.price} </span>
+  Ürünün Fİyatı: <span class="text-success">${calculatePrice(product.price)} ₺ </span>
 </h3>
 </div>
 <p class="lead 
