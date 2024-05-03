@@ -5,4 +5,4 @@
 
 ## GİF
 
-<img src= "screen.gif">
+<img src= "screenn.gif">
